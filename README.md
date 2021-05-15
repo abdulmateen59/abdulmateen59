@@ -31,7 +31,7 @@ Welcome to my profile! Thanks for visiting and I'd love to connect.
 
 
 ## Technologies :fire:
-- Python
+- Python 
 - Java / Groovy
 - Machine Learning / Deep Learning
 - CI / CD
@@ -47,4 +47,6 @@ Welcome to my profile! Thanks for visiting and I'd love to connect.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmateen59&theme=dark&show_icons=true)](https://github.com/abdulmateen59/github-readme-stats)
 
-[![Abdul's github stats](https://github-readme-stats.vercel.app/api?username=abdulmateen59&show_icons=true&theme=dark)](https://github.com/abdulmateen59/github-readme-stats)
+<!---
+[![Abdul's github stats](https://github-readme-stats.vercel.app/api?username=abdulmateen59&show_icons=true&theme=dark)](https://github.com/abdulmateen59/github-readme-stats) 
+--->
