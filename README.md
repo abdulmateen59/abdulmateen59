@@ -32,16 +32,17 @@ Welcome to my profile! Thanks for visiting and I'd love to connect.
 
 ## Technologies :fire:
 - Python 
-- Java / Groovy
-- Machine Learning / Deep Learning
-- CI / CD
+- Java | Groovy
+- Machine/Deep Learning
+- Continuous Integration / Continuous Delivery 
 - Shell Scripting
 - Jenkins
-- SQL Server / Mysql / Postgresql 
+- Apache Spark | Kafka
+- SQL Server | Mysql | Postgresql 
 - Travis CI
 - Dockers
-- AWS 
-- WSO2 API MANAGER / ESB
+- AWS | Azure
+- WSO2 API MANAGER | Enterprise Service Bus
 
 <br />
 
