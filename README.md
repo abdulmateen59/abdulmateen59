@@ -8,23 +8,12 @@ Welcome to my profile! Thanks for visiting and I'd love to connect.
 <a href="mailto:abdul.mateen59@yahoo.com">
   <img align="left" alt="Yahoo" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/yahoo.svg" />
 </a>
-<a href="https://www.instagram.com/abdul.mateen59/">
-  <img align="left" alt="Abdul's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://www.facebook.com/N3vRMor3">
-  <img align="left" alt="Abdul's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/AbdulMateen59">
-  <img align="left" alt="Abdul's Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.xing.com/profile/Abdul_Mateen8/cv">
   <img align="left" alt="Abdul's Xing" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />
 </a>
 <a href="https://stackoverflow.com/users/12366413/abdul-mateen">
   <img align="left" alt="Abdul's Stackoverflow" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-
 <br />
 <br />
 <br />
@@ -34,7 +23,7 @@ Welcome to my profile! Thanks for visiting and I'd love to connect.
 - Python 
 - Java | Groovy
 - Machine/Deep Learning
-- Continuous Integration / Continuous Delivery 
+- Continuous Integration | Continuous Delivery 
 - Shell Scripting
 - Jenkins
 - Apache Spark | Kafka
