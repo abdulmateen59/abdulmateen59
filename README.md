@@ -26,7 +26,7 @@ Welcome to my profile! Thanks for visiting and I'd love to connect.
 - Continuous Integration | Continuous Delivery 
 - Shell Scripting
 - Jenkins
-- Apache Spark | Kafka
+- Apache Spark | Kafka | Airflow
 - SQL Server | Mysql | Postgresql 
 - Travis CI
 - Dockers
