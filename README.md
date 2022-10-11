@@ -20,16 +20,16 @@ Welcome to my profile! Thanks for visiting and I'd love to connect.
 
 
 ## Technologies :fire:
-- Python 
-- Java | Groovy
+- Python (Primary)
+- Go | Java (Secondary)
 - Machine/Deep Learning
-- Continuous Integration | Continuous Delivery 
+- Travis CI | Jenkins | GitLab CI/CD
 - Shell Scripting
-- Jenkins
-- Apache Spark | Kafka | Airflow
-- SQL Server | Mysql | Postgresql 
-- Travis CI
-- Dockers
+- Apache Spark | Kafka
+- Prefect | Airflow
+- Postgresql | SQL Server | Mysql 
+- Dockers | Nomad
+- Prometheus | Grafana
 - AWS | Azure
 - WSO2 API MANAGER | Enterprise Service Bus
 
